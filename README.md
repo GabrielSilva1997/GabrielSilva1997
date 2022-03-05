@@ -1,19 +1,32 @@
-- 👋 Hi, I’m @GabrielSilva1997;
+### Olá! Eu sou Gabriel Ribeiro da Silva
+
 - 👀 I’m interested in WEB Development;
 - 🌱 I’m currently learning HTML, CSS and JS;
-- 📫 How to reach me: email - gsilva_1997@hotmail.com;
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<div>
+  <a href="https://github.com/GabrielSilva1997">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilva1997&show_icons=true&theme=react&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva1997&layout=compact&langs_count=16&theme=react"/>
+</div>
+  
+<div syle="display: inline-block"><br>
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+</div>
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+  ##
+  
+ <div>
+   <a href="https://www.instagram.com/silva_gr97" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+   </a>
+   
+   <a href="https://www.linkedin.com/in/gabriel-silva-331b63224/" target="_blank">
+     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+   </a> 
+ </div>
 
 <!---
 GabrielSilva1997/GabrielSilva1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
