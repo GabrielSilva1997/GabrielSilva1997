@@ -1,5 +1,17 @@
 ### Olá! Eu sou Gabriel Ribeiro da Silva
 
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://www.linkedin.com/in/gabriel-silva-331b63224/">
+  <img align="left" alt="akd's Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/GabrielSilva1997">
+  <img align="left" alt="akd's Github" width="100px" height="30px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:gabriel.rsilva.dev@gmail.com">
+  <img align="left" alt="akd's codechef" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
 - 👀 I’m interested in WEB Development;
 - 🌱 I’m currently learning HTML, CSS and JS;
 
