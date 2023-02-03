@@ -1,4 +1,4 @@
-# Hey DEVs! I'm [Gabriel Silva](https://github.com/PedroHConrado) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">, I'm [Gabriel Silva](https://github.com/PedroHConrado) 
 
 
 ### 🤝🏻 &nbsp;Connect with Me
