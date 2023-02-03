@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Ribeiro da Silva
+# Hey DEVs! I'm [Gabriel Silva](https://github.com/PedroHConrado) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -11,37 +11,35 @@
 <a href="mailto:gabriel.rsilva.dev@gmail.com">
   <img align="left" alt="akd's codechef" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/silva_gr97" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+</a>
+
+<br>
+
+### 👨🏻‍💻 &nbsp;About Me
 
 - 👀 I’m interested in WEB Development;
-- 🌱 I’m currently learning HTML, CSS and JS;
+- 🌱 I’m currently learning React.js, Next.js and Typescript;
 
 <div>
   <a href="https://github.com/GabrielSilva1997">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilva1997&show_icons=true&theme=react&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva1997&layout=compact&langs_count=16&theme=react"/>
 </div>
+ 
+### 🛠 &nbsp;Tech Stack
   
-<div syle="display: inline-block"><br>
+<div syle="display: inline-block">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabriel-Reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Gabriel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="Gabriel-Netxjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
-  
-  
- <div>
-   <br>
-   <a href="https://www.instagram.com/silva_gr97" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-   </a>
-   
-   <a href="https://www.linkedin.com/in/gabriel-silva-331b63224/" target="_blank">
-     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-   </a> 
- </div>
 
 <!---
 GabrielSilva1997/GabrielSilva1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
