@@ -18,8 +18,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👀 I’m interested in WEB Development;
-- 🌱 I’m currently learning React.js, Next.js and Typescript;
+- :dart: Busco inserção no mercado de trabalho de TI
+- 👀 Estudo focados em Desenvolvimento WEB, com ênfase em front-end;
+- 🌱 Atualmente estudo React.js, Next.js and Typescript;
 
 <div>
   <a href="https://github.com/GabrielSilva1997">
